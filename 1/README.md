@@ -1,3 +1,5 @@
+PRINT THIS PATTERN
+
 ****
 ***
 **
